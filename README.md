@@ -39,7 +39,10 @@ In a terminal :
 - python3 app.py
 
 ## Contact
-Feel free to send me any suggestions, questions or demands at : cboucherie@insa-rouen.fr
+Feel free to send me any suggestions, questions or demands at :
+
+cboucherie@insa-rouen.fr
+
 @charlotte-bl
 
 ## Thank you !
