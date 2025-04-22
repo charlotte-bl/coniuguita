@@ -32,11 +32,17 @@
 
 ## How to use
 Require python3 and the dependencies !
+
 You may first need to install them, see them above !
 
-In a terminal :
-- cd coinuguita/src
-- python3 app.py
+Launch through the bash script here by simply running :
+
+./coniuguita.sh
+
+
+If the software is not launching, you may consider running first :
+
+chmod +x coniuguita.sh
 
 ## Contact
 Feel free to send me any suggestions, questions or demands at :
