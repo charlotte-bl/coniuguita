@@ -31,16 +31,15 @@
 - **[customtkinter](https://github.com/TomSchimansky/CustomTkinter)** – for modern-looking Tkinter GUI
 
 ## How to use
+Require python3 and the dependencies !
+You may first need to install them, see them above !
 
-### Through Python (Suitable for Ubuntu)
 In a terminal :
 - cd coinuguita/src
 - python3 app.py
 
-### Through .exe (Suitable for Windows)
-Double click on .exe
-
 ## Contact
+Feel free to send me any suggestions, questions or demands at : cboucherie@insa-rouen.fr
 @charlotte-bl
 
 ## Thank you !
